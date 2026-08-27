@@ -1,4 +1,4 @@
-# Тесты SauceDemo
+# Тесты saucedemo
 
 Автоматизированные тесты для сайта https://www.saucedemo.com/ с использованием Selenium, pytest и централизованных локаторов.
 
